@@ -41,7 +41,7 @@ audio {
 }
 
 .text {
-  flex: 1 1 400px;
+  flex:400px;
   background-color: #142a1b;
   padding: 25px;
   border: 1px solid #2e4a37;
