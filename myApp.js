@@ -8,7 +8,6 @@ function changeColor() {
     if (i == colors.length) {
         i = 0;
     }
-    setInterval(changeColor, 1000);
 }
-
+setInterval(changeColor, 1000);
 
